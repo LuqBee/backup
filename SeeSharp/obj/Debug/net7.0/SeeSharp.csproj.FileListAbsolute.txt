@@ -1,0 +1,15 @@
+C:\Users\retur\OneDrive\Desktop\SeeSharp\bin\Debug\net7.0\SeeSharp.exe
+C:\Users\retur\OneDrive\Desktop\SeeSharp\bin\Debug\net7.0\SeeSharp.deps.json
+C:\Users\retur\OneDrive\Desktop\SeeSharp\bin\Debug\net7.0\SeeSharp.runtimeconfig.json
+C:\Users\retur\OneDrive\Desktop\SeeSharp\bin\Debug\net7.0\SeeSharp.dll
+C:\Users\retur\OneDrive\Desktop\SeeSharp\bin\Debug\net7.0\SeeSharp.pdb
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.csproj.AssemblyReference.cache
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.AssemblyInfoInputs.cache
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.AssemblyInfo.cs
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.csproj.CoreCompileInputs.cache
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.dll
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\refint\SeeSharp.dll
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.pdb
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\SeeSharp.genruntimeconfig.cache
+C:\Users\retur\OneDrive\Desktop\SeeSharp\obj\Debug\net7.0\ref\SeeSharp.dll
